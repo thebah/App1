@@ -1,1 +1,1 @@
-a new python project sounds amazing. 
+a new python project sounds amazing. may be not! 
